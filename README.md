@@ -4,7 +4,7 @@ This is the repository for my Bachelor Project at the Technical University of De
 
 # Data
 
-The used data is a subset of the The International Skin Imaging Collaboratio (ISIC) Corpus and can be downloaded from the link below:
+The Private Dataset is called Imagine containing Tele-dermatology data. The other used dataset is a subset of the The International Skin Imaging Collaboratio (ISIC) Corpus and can be downloaded from the link below:
 
 https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
 
