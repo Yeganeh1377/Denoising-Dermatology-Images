@@ -9,8 +9,8 @@ The used data is a subset of the The International Skin Imaging Collaboratio (IS
 https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
 
 The training and test subsets of the following classes are used in this project:<br />
-basal cell carcinoma<br />
-melanoma<br />
-Pigmented Benign Keratosis<br />
-Nevus<br />
+* basal cell carcinoma<br />
+* melanoma<br />
+* Pigmented Benign Keratosis<br />
+* Nevus<br />
 
