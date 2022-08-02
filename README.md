@@ -3,6 +3,8 @@
 This is the repository for my Bachelor's Thesis at the Technical University of Denmark. This project is a proof of concept, investigating the CNN-based Stacked Denoising Autoencoder in improving the brightness of dermoscopic and cell-phone images. The brightness is jittered using linear interpolation with black image with varying alpha value chosen uniformly from the range of [0.2,1.8].<br />
 
 The repository consists of Two files. In the Experiment file the related modules used to train the model and test the model and analysis of the results is provided. The DataAnalysis file consists of the script of data cleaning and data analysis.
+![fig1Report (3)](https://user-images.githubusercontent.com/59656248/182412492-3ea6fe7b-4cf9-4a86-bbb1-02d0799c2de5.jpg)
+
 
 # Data
 
@@ -30,4 +32,5 @@ python TrainingModuleImagine.py
 
 This project does not have any hyper-parameter optimisation, and the hyper parameters are chosen based on the literature and pilot experiments. The training hyper-parameters can be changed in the respective modules in each of the training files TrainingModuleImagine.py TrainingModuleISIC.py.<br />
 
-
+# Requirements
+Please refer to requirment.txt file for the required python libraries.
