@@ -33,5 +33,3 @@ python TrainingModuleImagine.py
 
 This project does not have any hyper-parameter optimisation, and the hyper parameters are chosen based on the literature and pilot experiments. The training hyper-parameters can be changed in the respective modules in each of the training files TrainingModuleImagine.py TrainingModuleISIC.py.<br />
 
-# Requirements
-Please refer to requirment.txt file for the required python libraries.
