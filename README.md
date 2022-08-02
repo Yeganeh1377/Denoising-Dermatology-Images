@@ -10,7 +10,7 @@ The project uses two datasets, Imagine Dataset and a subset of The International
 
 https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic
 
-This project uses a subset of Psoriasis Desease from Imagine Dataset and the following classes from ISIC dataset:<br />
+This project uses a subset of Psoriasis class from Imagine Dataset and the following classes from ISIC dataset:<br />
 * basal cell carcinoma<br />
 * melanoma<br />
 * Pigmented Benign Keratosis<br />
